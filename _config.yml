@@ -21,7 +21,7 @@ repository               : "tiankaili/tiankaili.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self.png"
+  avatar           : "images/self.png"
   name             : "Tiankai Li"
   pronouns         : # example: "she/her"  
   bio              : #
