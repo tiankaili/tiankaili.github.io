@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in School of Gifted Young, University of Science and Technology of China, 2025 (Expected)
 
-Work experience
+Visit experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Summer Intern
+  * Yale University, USA
+  * 07/2024 - 12/2024
+  * Supervisor: [Prof. Zhuoran Yang](https://zhuoranyang.github.io/)
+  * Worked on Comparative Analysis of DPO and PPO-Based RLHF.
+  
+Preprints
+======
+- **STRIDE: A Tool-Assisted LLM Agent Framework for Strategic and Interactive Decision-Making**  
+  *Chuanhao Li, Runhan Yang, **Tiankai Li**, Milad Bafarassat, Kourosh Sharifi, Dirk Bergemann, Zhuoran Yang*  
+  available on [arxiv](https://arxiv.org/abs/2405.16376).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
