@@ -22,7 +22,7 @@ repository               : "tiankaili/tiankaili.github.io"
 author:
   # Biographic information
   avatar           : "self.png"
-  name             : "Tiankai Li"
+  name             : "Tiankai Li (李天恺)"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate at USTC"
   location         : "Ningbo, Zhejiang, China"
@@ -236,6 +236,7 @@ defaults:
       comments: true
       share: true
       related: true
+      future: false
   # _pages
   - scope:
       path: ""
