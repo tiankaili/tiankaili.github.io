@@ -11,6 +11,8 @@ About me
 ======
 **Tiankai Li(李天恺）** is a fourth year undergraduate student from [School of Gifted Young](http://en.scgy.ustc.edu.cn/) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/).
 
+You can find my CV [here](../assets/cv.pdf).
+
 
 Education
 ======
@@ -18,4 +20,4 @@ Education
   - B.S. in Statistics.
 
 # Contact me
-[Email](mailto:tiankai_li@mail.ustc.edu.cn)/[Github](http://github.com/SpAcEmAn08)
+Email: tiankai_li AT mail.ustc.edu.cn
