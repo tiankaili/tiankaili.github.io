@@ -5,7 +5,10 @@ title: "Misc"
 
 
 - I have an adorable cat. His English name is Snowball, and his Chinese name is Xue Gao (ice cream). Here are some pictures.  
-  ![](/images/cat(1).png)
+<p align="center">
+  <img src="/images/cat(1).png" alt="Description" width="400">
+</p>
+
 
 - I participated in Model United Nations (MUN) activities and was deeply passionate about this student-led initiative. I also played a leading role in founding the Ningbo Model United Nations Associations' Union.
   ![](/images/mun.png)
