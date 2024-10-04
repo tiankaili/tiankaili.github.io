@@ -13,7 +13,7 @@ title: "Misc"
 - I participated in Model United Nations (MUN) activities and was deeply passionate about this student-led initiative. I also played a leading role in founding the Ningbo Model United Nations Associations' Union.
  
  <p align="center">
-  <img src="/images/mun1.jpg" alt="Image 1" width="300" style="margin-right: 10px;">
-  <img src="/images/mun2.jpg" alt="Image 2" width="300">
+  <img src="/images/mun1.jpg" alt="Image 1" width="400" style="margin-right: 10px;">
+  <img src="/images/mun2.jpg" alt="Image 2" width="400">
 </p>
 
